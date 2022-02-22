@@ -1,0 +1,56 @@
+*{
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif
+}
+body{
+    margin: 0
+}
+h1{
+    background-color: blue;
+    color: #FFD400;
+    text-align: center;
+    padding: 20px;
+    margin: 0
+}
+h2{
+    background-color: #FFD400;
+    color: blue;
+    text-align:center;
+    padding: 15px;
+}
+h4{
+    background-color: blue;
+    color:#FFD400;
+    text-align: center;
+    padding: 20px;
+    margin: 0
+}
+h5{
+    text-align: center;
+
+}
+p{
+    text-align: center
+}
+div{
+    text-align: center;
+}
+div ul{
+    color: black;
+    text-align: center;
+}
+div button{
+   padding: 10px 20px;
+   border-color: black;
+   background-color: blue;
+   color: white;
+   border-radius: 20px;
+
+}
+hr{
+    padding:2px;
+    background-color: black;
+}
+input{
+    text-align: center;
+}
+
